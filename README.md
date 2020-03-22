@@ -7,9 +7,9 @@ wget https://raw.githubusercontent.com/alluLinger/Q2Update/master/Qupdate.sh && 
 
 ## Requirement 依赖
 
-wget,curl,jq
+wget,curl,jq,unzip
 
  - Ubuntu/Debian/Deepin
  ```
- sudo apt install curl jq wget
+ sudo apt install curl jq wget unzip
  ```
